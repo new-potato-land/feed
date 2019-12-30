@@ -1,0 +1,65 @@
+{
+    "providerName": "New Potato Land",
+    "lastUpdated": "2019-12-29T12:28:37+00:00",
+    "language": ["en", "cy"],
+    "movies": [
+	
+    ],
+    "liveFeeds": [
+        
+    ],
+    "series": [
+        {
+  "id": "420",
+  "title": "New Potato Land News",
+  "episodes": [
+    {
+  "id": "42069",
+  "title": "Pilot",
+  "content": {
+	{
+  "dateAdded": "2019-12-29T01:35:37+00:00",
+  "videos": [
+    {
+         url: "https://video.wixstatic.com/video/0f6df5_70d47202dd3c452680479f6708e46c42/360p/mp4/file.mp4",
+         quality: "SD",
+         videoType: "MP4"
+      }
+   ],
+   duration: 128,
+   captions: ["SUBTITLES"],
+   adBreaks: ["00:01:00"],
+   language: "en",
+  "trickPlayFiles": [
+    ...
+  ],
+}
+  },
+  "thumbnail": "https://static.wixstatic.com/media/0f6df5_e2a69fa54aac44359e2fbbe0be6ef53f~mv2.png/v1/fill/w_768,h_768/important.png",
+  "episodeNumber": 1,
+  "shortDescription": "Testing technology used in this series. It is not to be taken as high of quality as future episode would be."
+}
+  ],
+  "genres": [
+    "information",
+  ],
+  "thumbnail": "https://static.wixstatic.com/media/0f6df5_06dc3c76afeb4a3db9f134d92db2bd6f~mv2.jpg/v1/fill/w_600,h_400/eb5-visa-news-update.jpg",
+  "shortDescription": "The official news network for the Federal Republic of New Potato Land."
+},
+    ],
+    "shortFormVideos":  [
+        {
+  "id": "420420",
+  "title": "Croissant Off",
+  "content": {
+    "https://video.wixstatic.com/video/0f6df5_8ae3fe7132d745e29eb436ec7de9b87c/1080p/mp4/file.mp4"
+  },
+  "thumbnail": "https://static.wixstatic.com/media/0f6df5_b1d6914b36984f6ab1bbd58caf3cd675~mv2.jpg/v1/fill/w_921,h_689/IMG_0699.jpg",
+  "shortDescription": "Carl featuring in his rap video, Croissant Off.",
+  "releaseDate": "2017-07-29"
+}
+    ],
+    "tvSpecials": [
+        
+    ]
+}
